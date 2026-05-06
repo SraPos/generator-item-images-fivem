@@ -8,7 +8,7 @@
 		"serve": "python -m http.server 7860",
 		"dev": "npm run generate && npm run serve",
 		"build": "npm run generate",
-		"start": "npm run generate && python -m http.server 7860"
+		"start": "npm run generate && python3 -m http.server 7860"
 	},
 	"keywords": [
 		"fivem",
