@@ -22,10 +22,6 @@ This project serves as an image gallery for Fivem items, providing a comprehensi
 - **Integrated Search Functionality**: Quickly find what you need using the built-in search feature.
 - **Inventory snippets**: Click on any image and you will see the code for different inventories.
 
-## Getting Started
-
-You can open the web from the following link:
-[https://items.bit-scripts.com](https://items.bit-scripts.com)
 
 ## Credits
 
@@ -45,3 +41,7 @@ The images used in this project come from multiple sources and are under differe
 For more details about the licenses, please refer to the original repositories.
 
 This project is licensed under the terms of the LICENSE file included in this repository. Mandatory attribution to BIT is required for any use.
+
+## Getting Started
+
+[https://generator-item-images-fivem-production.up.railway.app/](https://generator-item-images-fivem-production.up.railway.app/)
