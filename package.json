@@ -5,9 +5,10 @@
 	"main": "generate-items.js",
 	"scripts": {
 		"generate": "node generate-items.js",
-		"serve": "python -m http.server 8000",
+		"serve": "python -m http.server 7860",
 		"dev": "npm run generate && npm run serve",
-		"build": "npm run generate"
+		"build": "npm run generate",
+		"start": "npm run generate && python -m http.server 7860"
 	},
 	"keywords": [
 		"fivem",
